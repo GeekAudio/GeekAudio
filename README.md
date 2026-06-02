@@ -9,7 +9,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/keywords-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/keywords-dark.svg">
   <img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/keywords-light.svg" alt="工程关键词" width="100%">
 </picture>
 
