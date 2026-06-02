@@ -1,8 +1,8 @@
-<!-- GitHub Profile README · 渲染于 https://github.com/GeekASMR -->
+<!-- GitHub Profile README · 渲染于 https://github.com/GeekAudio -->
 
 <!-- ─────────────────────────  顶部 Banner（保留）  ───────────────────────── -->
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,50:9C27B0,100:00599C&height=220&section=header&text=GeekASMR&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Windows%20%E9%9F%B3%E9%A2%91%E5%86%85%E6%A0%B8%20%C2%B7%20%E8%99%9A%E6%8B%9F%E9%A9%B1%E5%8A%A8%20%C2%B7%20VST3%20%E6%A1%A5%E6%8E%A5&descAlignY=60&descSize=18&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,50:9C27B0,100:00599C&height=220&section=header&text=GeekAudio&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Windows%20%E9%9F%B3%E9%A2%91%E5%86%85%E6%A0%B8%20%C2%B7%20%E8%99%9A%E6%8B%9F%E9%A9%B1%E5%8A%A8%20%C2%B7%20VST3%20%E6%A1%A5%E6%8E%A5&descAlignY=60&descSize=18&animation=fadeIn)
 
 <!-- ─────────────────────────  关键词堆叠（自渲染 SVG）  ───────────────────────── -->
 
@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/keywords-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/keywords-light.svg" alt="工程关键词" width="100%">
+  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/keywords-light.svg" alt="工程关键词" width="100%">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 📍 哈尔滨 &nbsp;·&nbsp; 🌐 [geek.asmrtop.cn](https://geek.asmrtop.cn/) &nbsp;·&nbsp; 💚 [赞助 WHQL 签名](https://ultra.asmrtop.cn/donate/)
 
 <!-- 主页访问改用 hits.sh（实测稳定，不依赖国内代理）；总星标用自渲染 SVG 避开 shields.io token 池限流 -->
-<a href="#"><img src="https://hits.sh/github.com/GeekASMR.svg?style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=E91E63&labelColor=555555" alt="主页访问"></a>
-<a href="https://github.com/GeekASMR"><img src="https://img.shields.io/github/followers/GeekASMR?label=%E5%85%B3%E6%B3%A8&style=flat-square&color=00599C" alt="关注"></a>
-<a href="https://github.com/GeekASMR?tab=repositories"><img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/total-stars.svg?v=3" alt="总星标"></a>
+<a href="#"><img src="https://hits.sh/github.com/GeekAudio.svg?style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=E91E63&labelColor=555555" alt="主页访问"></a>
+<a href="https://github.com/GeekAudio"><img src="https://img.shields.io/github/followers/GeekAudio?label=%E5%85%B3%E6%B3%A8&style=flat-square&color=00599C" alt="关注"></a>
+<a href="https://github.com/GeekAudio?tab=repositories"><img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/total-stars.svg?v=3" alt="总星标"></a>
 
 </div>
 
@@ -39,8 +39,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/pipeline-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/pipeline-light.svg" alt="WDM2VST 音频流程" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/pipeline-dark.svg">
+  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/pipeline-light.svg" alt="WDM2VST 音频流程" width="100%">
 </picture>
 
 </div>
@@ -51,9 +51,9 @@
 
 WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里的一条轨道，反向亦可。低延迟、零拷贝 IPC、原生 VST3 宿主。
 
-[![release](https://img.shields.io/github/v/release/GeekASMR/WDM2VST-Ultra?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=E91E63)](https://github.com/GeekASMR/WDM2VST-Ultra/releases)
-[![downloads](https://img.shields.io/github/downloads/GeekASMR/WDM2VST-Ultra/total?style=for-the-badge&label=%E6%80%BB%E4%B8%8B%E8%BD%BD&color=0E8A16)](https://github.com/GeekASMR/WDM2VST-Ultra/releases)
-[![stars](https://img.shields.io/github/stars/GeekASMR/WDM2VST-Ultra?style=for-the-badge&label=%E6%98%9F%E6%A0%87&color=FFD700)](https://github.com/GeekASMR/WDM2VST-Ultra)
+[![release](https://img.shields.io/github/v/release/GeekAudio/WDM2VST-Ultra?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=E91E63)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
+[![downloads](https://img.shields.io/github/downloads/GeekAudio/WDM2VST-Ultra/total?style=for-the-badge&label=%E6%80%BB%E4%B8%8B%E8%BD%BD&color=0E8A16)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
+[![stars](https://img.shields.io/github/stars/GeekAudio/WDM2VST-Ultra?style=for-the-badge&label=%E6%98%9F%E6%A0%87&color=FFD700)](https://github.com/GeekAudio/WDM2VST-Ultra)
 
 > **⚡ 阶段重点 — 推动微软 WHQL 签名**
 >
@@ -70,31 +70,31 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 <td valign="top" width="50%">
 
 **🔊 音频内核 & 驱动**
-- [`WDM2VST-Ultra`](https://github.com/GeekASMR/WDM2VST-Ultra) — WDM ↔ VST3 低延迟桥
-- [`UMC-Ultra-drivers`](https://github.com/GeekASMR/UMC-Ultra-drivers) — 百灵达 UMC 虚拟跳线增强
-- [`ASIO-Ultra-drivers`](https://github.com/GeekASMR/ASIO-Ultra-drivers) — ASIO 录音卡虚拟通道
+- [`WDM2VST-Ultra`](https://github.com/GeekAudio/WDM2VST-Ultra) — WDM ↔ VST3 低延迟桥
+- [`UMC-Ultra-drivers`](https://github.com/GeekAudio/UMC-Ultra-drivers) — 百灵达 UMC 虚拟跳线增强
+- [`ASIO-Ultra-drivers`](https://github.com/GeekAudio/ASIO-Ultra-drivers) — ASIO 录音卡虚拟通道
 
 **🌐 网络音频**
-- [`network-ultra-server`](https://github.com/GeekASMR/network-ultra-server) — 跨网点协作中继（Go，一行命令自部署）
+- [`network-ultra-server`](https://github.com/GeekAudio/network-ultra-server) — 跨网点协作中继（Go，一行命令自部署）
 
 </td>
 <td valign="top" width="50%">
 
 **🎛 DAW 工具链**
-- [`UA-LUNA-Simplified-Chinese-Patch`](https://github.com/GeekASMR/UA-LUNA-Simplified-Chinese-Patch) — UA LUNA 中文化
-- [`UAD-Plugin-Manager`](https://github.com/GeekASMR/UAD-Plugin-Manager) — UAD 插件管理器
+- [`UA-LUNA-Simplified-Chinese-Patch`](https://github.com/GeekAudio/UA-LUNA-Simplified-Chinese-Patch) — UA LUNA 中文化
+- [`UAD-Plugin-Manager`](https://github.com/GeekAudio/UAD-Plugin-Manager) — UAD 插件管理器
 
 **🍎 黑苹果 OpenCore**
 - Z370 / Z390 Phantom ITX 等多套配置（仓库后缀 `*-OpenCore-Hackintosh`）
 
 **🪟 顺手做的小工具**
-- [`window-drawer`](https://github.com/GeekASMR/window-drawer) — Windows 抽屉式窗口管理
+- [`window-drawer`](https://github.com/GeekAudio/window-drawer) — Windows 抽屉式窗口管理
 
 </td>
 </tr>
 </table>
 
-完整仓库列表 → <https://github.com/GeekASMR?tab=repositories>
+完整仓库列表 → <https://github.com/GeekAudio?tab=repositories>
 
 ---
 
@@ -122,8 +122,8 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 <div align="center">
 
 <!-- 连续提交打卡 (全宽居中,实测稳定的 demolab 服务) -->
-<a href="https://github.com/GeekASMR">
-  <img src="https://streak-stats.demolab.com?user=GeekASMR&locale=zh_CN&theme=default&hide_border=true&date_format=Y.n.j&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&sideLabels=E91E63&dates=00599C" alt="提交连续天数" width="80%" />
+<a href="https://github.com/GeekAudio">
+  <img src="https://streak-stats.demolab.com?user=GeekAudio&locale=zh_CN&theme=default&hide_border=true&date_format=Y.n.j&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&sideLabels=E91E63&dates=00599C" alt="提交连续天数" width="80%" />
 </a>
 
 <br><br>
@@ -131,16 +131,16 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 <!-- 立体方块贡献图 (yoshi389111/github-profile-3d-contrib, GitHub Action 每日生成,
      已生成在仓库 profile-3d-contrib/ 下,picture 自动切换亮暗。?v= 用作 cache-bust。) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/profile-3d-contrib/profile-night-rainbow.svg?v=zh1">
-  <img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/main/profile-3d-contrib/profile-season-animate.svg?v=zh1" alt="立体贡献图" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/profile-3d-contrib/profile-night-rainbow.svg?v=zh1">
+  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/profile-3d-contrib/profile-season-animate.svg?v=zh1" alt="立体贡献图" width="100%">
 </picture>
 
 <br><br>
 
 <!-- Snake 吃 contributions 动画 (Platane/snk, GitHub Action 每日生成) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekASMR/GeekASMR/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekASMR/GeekASMR/output/github-contribution-grid-snake.svg" alt="Snake 吃 contributions" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/output/github-contribution-grid-snake.svg" alt="Snake 吃 contributions" width="100%">
 </picture>
 
 </div>
