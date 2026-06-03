@@ -21,7 +21,7 @@
 
 [![打字机](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=600&color=E91E63&center=true&vCenter=true&width=720&lines=%E8%AE%A9+Windows+%E7%B3%BB%E7%BB%9F%E9%9F%B3%E9%A2%91%E4%BB%A5%E9%87%87%E6%A0%B7%E7%BA%A7%E7%B2%BE%E5%BA%A6%E6%8A%B5%E8%BE%BE+DAW;%E5%9C%A8%E5%86%85%E6%A0%B8%E5%B1%82%E6%89%93%E9%80%9A%E9%9F%B3%E9%A2%91+%C2%B7+%E5%9C%A8%E5%BA%94%E7%94%A8%E5%B1%82%E6%8E%92%E9%93%B6%E9%92%88;%E5%81%9A%E4%B8%80%E4%BB%B6%E8%83%BD%E7%94%A8%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%9C%E8%A5%BF;WDM+%E2%86%92+VST3+%E2%86%92+DAW+%E2%86%92+%E5%85%A8%E4%B8%96%E7%95%8C)](#)
 
-📍 哈尔滨 &nbsp;·&nbsp; 🌐 [geek.asmrtop.cn](https://geek.asmrtop.cn/) &nbsp;·&nbsp; 💚 [赞助 WHQL 签名](https://ultra.asmrtop.cn/donate/)
+📍 哈尔滨 &nbsp;·&nbsp; 🌐 [geek.asmrtop.cn](https://geek.asmrtop.cn/) &nbsp;·&nbsp; 💚 [赞助 WHQL 签名](https://www.geekaudio.cn/donate/)
 
 <!-- 主页访问改用 hits.sh（实测稳定，不依赖国内代理）；总星标用自渲染 SVG 避开 shields.io token 池限流 -->
 <a href="#"><img src="https://hits.sh/github.com/GeekAudio.svg?style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=E91E63&labelColor=555555" alt="主页访问"></a>
@@ -59,7 +59,7 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 >
 > 国内主流反作弊（腾讯 ACE / 网易易盾 / EasyAntiCheat）默认拒签内核驱动。WHQL 是行业里**唯一彻底**的解法。
 >
-> 如果 WDM2VST Ultra 帮到你，欢迎 [💚 赞助一份心意](https://ultra.asmrtop.cn/donate/)。
+> 如果 WDM2VST Ultra 帮到你，欢迎 [💚 赞助一份心意](https://www.geekaudio.cn/donate/)。
 
 ---
 
