@@ -1,4 +1,6 @@
 <!-- GitHub Profile README · 渲染于 https://github.com/GeekAudio -->
+<!-- 图源统一走 cdn.jsdelivr.net(国内可达,raw.githubusercontent.com 在国内常被墙/超时);
+     旗舰项目徽章改用自渲染 SVG(badge-*.svg),避开 shields.io 动态查询的 token 池限流。 -->
 
 <!-- ─────────────────────────  顶部 Banner（保留）  ───────────────────────── -->
 
@@ -9,8 +11,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/keywords-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/keywords-light.svg" alt="工程关键词" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/keywords-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/keywords-light.svg" alt="工程关键词" width="100%">
 </picture>
 
 </div>
@@ -23,10 +25,10 @@
 
 📍 哈尔滨 &nbsp;·&nbsp; 🌐 [geek.asmrtop.cn](https://geek.asmrtop.cn/) &nbsp;·&nbsp; 💚 [赞助 WHQL 签名](https://ultra.asmrtop.cn/donate/)
 
-<!-- 主页访问改用 hits.sh（实测稳定，不依赖国内代理）；总星标用自渲染 SVG 避开 shields.io token 池限流 -->
+<!-- 主页访问改用 hits.sh（实测稳定，不依赖国内代理）；关注数 / 总星标用自渲染 SVG 避开 shields.io token 池限流 -->
 <a href="#"><img src="https://hits.sh/github.com/GeekAudio.svg?style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=E91E63&labelColor=555555" alt="主页访问"></a>
-<a href="https://github.com/GeekAudio"><img src="https://img.shields.io/github/followers/GeekAudio?label=%E5%85%B3%E6%B3%A8&style=flat-square&color=00599C" alt="关注"></a>
-<a href="https://github.com/GeekAudio?tab=repositories"><img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/total-stars.svg?v=3" alt="总星标"></a>
+<a href="https://github.com/GeekAudio"><img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/badge-followers.svg?v=1" alt="关注"></a>
+<a href="https://github.com/GeekAudio?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/total-stars.svg?v=4" alt="总星标"></a>
 
 </div>
 
@@ -39,8 +41,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/pipeline-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/pipeline-light.svg" alt="WDM2VST 音频流程" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/pipeline-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/pipeline-light.svg" alt="WDM2VST 音频流程" width="100%">
 </picture>
 
 </div>
@@ -51,9 +53,10 @@
 
 WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里的一条轨道，反向亦可。低延迟、零拷贝 IPC、原生 VST3 宿主。
 
-[![release](https://img.shields.io/github/v/release/GeekAudio/WDM2VST-Ultra?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=E91E63)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
-[![downloads](https://img.shields.io/github/downloads/GeekAudio/WDM2VST-Ultra/total?style=for-the-badge&label=%E6%80%BB%E4%B8%8B%E8%BD%BD&color=0E8A16)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
-[![stars](https://img.shields.io/github/stars/GeekAudio/WDM2VST-Ultra?style=for-the-badge&label=%E6%98%9F%E6%A0%87&color=FFD700)](https://github.com/GeekAudio/WDM2VST-Ultra)
+<!-- 自渲染徽章(每日由 .github/workflows/badges.yml 刷新),不再依赖 shields.io 动态查询 -->
+[![release](https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/badge-release.svg?v=1)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
+[![downloads](https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/badge-downloads.svg?v=1)](https://github.com/GeekAudio/WDM2VST-Ultra/releases)
+[![stars](https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/badge-stars.svg?v=1)](https://github.com/GeekAudio/WDM2VST-Ultra)
 
 > **⚡ 阶段重点 — 推动微软 WHQL 签名**
 >
@@ -131,16 +134,16 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 <!-- 立体方块贡献图 (yoshi389111/github-profile-3d-contrib, GitHub Action 每日生成,
      已生成在仓库 profile-3d-contrib/ 下,picture 自动切换亮暗。?v= 用作 cache-bust。) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/profile-3d-contrib/profile-night-rainbow.svg?v=zh1">
-  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/main/profile-3d-contrib/profile-season-animate.svg?v=zh1" alt="立体贡献图" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/profile-3d-contrib/profile-night-rainbow.svg?v=zh1">
+  <img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@main/profile-3d-contrib/profile-season-animate.svg?v=zh1" alt="立体贡献图" width="100%">
 </picture>
 
 <br><br>
 
-<!-- Snake 吃 contributions 动画 (Platane/snk, GitHub Action 每日生成) -->
+<!-- Snake 吃 contributions 动画 (Platane/snk, GitHub Action 每日生成,output 分支) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekAudio/GeekAudio/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/GeekAudio/GeekAudio/output/github-contribution-grid-snake.svg" alt="Snake 吃 contributions" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@output/github-contribution-grid-snake-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/GeekAudio/GeekAudio@output/github-contribution-grid-snake.svg" alt="Snake 吃 contributions" width="100%">
 </picture>
 
 </div>
@@ -150,7 +153,7 @@ WDM 内核驱动 + 5 个 VST3，把任意 Windows 程序的声音变成 DAW 里�
 <div align="center">
 
 <sub>
-关键词云 SVG 由仓库内 <code>scripts/gen_keywords.py</code> 生成；流程图 SVG 由 <code>scripts/gen_pipeline.py</code> 生成；立体贡献图来自 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>；Snake 来自 <a href="https://github.com/Platane/snk">Platane/snk</a>；提交折线来自 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity-graph</a>；连续打卡来自 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>。徽章实时数据来自 shields.io，缓存约 1 小时。
+关键词云 SVG 由仓库内 <code>scripts/gen_keywords.py</code> 生成；流程图 SVG 由 <code>scripts/gen_pipeline.py</code> 生成；项目徽章 SVG 由 <code>scripts/gen_badges.py</code> 生成；总星标由 <code>scripts/gen_total_stars.py</code> 生成；立体贡献图来自 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>；Snake 来自 <a href="https://github.com/Platane/snk">Platane/snk</a>；连续打卡来自 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>。图片统一经 jsdelivr CDN 分发，国内访问稳定。
 </sub>
 
 <br><br>
